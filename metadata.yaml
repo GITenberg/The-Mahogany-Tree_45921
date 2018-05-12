@@ -1,0 +1,42 @@
+_repo: The-Mahogany-Tree_45921
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dulac, Edmund
+    alias: Dulac, Edmond
+    birthdate: 1882
+    deathdate: 1953
+    gutenberg_agent_id: '7657'
+    url: http://www.gutenberg.org/2009/agents/7657
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Dulac
+covers:
+- cover_type: archival
+  image_path: 45921-h/images/cover-image.jpg
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    aliases:
+    - Thackeray, W. M.
+    - Titmarsh, M. A.
+    - Titmarsh, Michael Angelo
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+description: ''
+gutenberg_issued: '2014-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45921'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas poetry'
+- !lcc 'PR'
+title: The Mahogany Tree
+url: http://www.gutenberg.org/ebooks/45921
