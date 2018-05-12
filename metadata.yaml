@@ -27,6 +27,8 @@ creator:
     - http://www.victorianweb.org/authors/wmt/wmtov.html
     - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45921#The-Mahogany-Tree
 gutenberg_issued: '2014-06-11'
 gutenberg_type: Text
 identifiers:
